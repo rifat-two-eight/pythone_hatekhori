@@ -1,0 +1,3 @@
+Hi there
+we are learning python
+python is an interesting language

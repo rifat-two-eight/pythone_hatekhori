@@ -29,6 +29,6 @@ def check_for_line():
             data = f.readline()
             if(word in data):
                 print(line_no)
-            line_no += 1
+            line_no += 1 
         return -1
 print(check_for_line())
